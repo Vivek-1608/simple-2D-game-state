@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Saved game state / generated files
+save.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs (if any)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
