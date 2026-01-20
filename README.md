@@ -155,12 +155,6 @@ This approach mirrors real-world game backend and server-side design patterns.
 ### Requirements
 - Node.js (v14+ recommended)
 
-### Steps
-```bash
-git clone <repository-url>
-cd simple-2d-game-state
-node src/index.js
-
 ## Reflection and Rationale
 
 The detailed reflection and rationale for this assignment, including design decisions,
@@ -168,3 +162,11 @@ trade-offs, areas of uncertainty, and AI assistance disclosure, are documented i
 separate file:
 
 📄 **REFLECTION_AND_RATIONALE.md**
+
+### Steps
+```bash
+git clone <repository-url>
+cd simple-2d-game-state
+node src/index.js
+
+
