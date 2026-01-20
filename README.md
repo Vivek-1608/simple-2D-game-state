@@ -160,3 +160,11 @@ This approach mirrors real-world game backend and server-side design patterns.
 git clone <repository-url>
 cd simple-2d-game-state
 node src/index.js
+
+## Reflection and Rationale
+
+The detailed reflection and rationale for this assignment, including design decisions,
+trade-offs, areas of uncertainty, and AI assistance disclosure, are documented in a
+separate file:
+
+📄 **REFLECTION_AND_RATIONALE.md**
